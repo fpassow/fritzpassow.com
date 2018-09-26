@@ -1,1 +1,1 @@
-# fritzpassow.com
+Static content for personal site.
