@@ -1,1 +1,1 @@
-pscp -r -i C:\AWS\rpgworldbuilder\keys\rpgworldbuilder.ppk public ubuntu@fritzpassow.com:/home/ubuntu/fritzpassow.com/public
+pscp -r -i C:\AWS\rpgworldbuilder\keys\rpgworldbuilder.ppk public ubuntu@fritzpassow.com:/home/ubuntu/fritzpassow.com/
