@@ -35,22 +35,22 @@
   <h3><a href="rpgwb/rpgwbindex.html"> RPG World Builder</a></h3>
 
   <p>This is a tool to help design fun, playable campaign ideas for tabletop
-    roleplaying games, using MongoDB, Node, and React. 
+    roleplaying games. It uses MongoDB, Node, and React. 
     <a href="#" class="readmore">...read more</a>
   </p>
 
-  <p class="readmore">It's central feature is a form which is created dynamically from a JSON file (<a href="rpgwb/def.json">src/def.json</a>). Users can create accounts, create campaigns, see everyone's campaigns, and clone their own copies of other campaigns.</p>
+  <p class="readmore">It's central feature is an HTML form which is created dynamically from a JSON file (<a href="rpgwb/def.json">src/def.json</a>). Users can create accounts, create campaigns, see everyone else's campaigns, and clone their own copies of other campaigns.</p>
 
-  <p class="readmore">It's on GitHub at <a href="https://github.com/fpassow/rpgworldbuilder_react">https://github.com/fpassow/rpgworldbuilder_react</a> and live <a href="rpgwbindex.html">here</a>.</p>
+  <p class="readmore">It's on GitHub at <a href="https://github.com/fpassow/rpgworldbuilder_react">https://github.com/fpassow/rpgworldbuilder_react</a> and is live <a href="rpgwbindex.html">here</a>.</p>
 
   <p class="readmore">History:</p>
   <ol class="readmore">
 	<li>First built in PHP, with objects serialized to files instead of a database</li>
 	<li>Changed to a single page app using jQuery because the reloads felt clunky</li>
 	<li>jQuery version had Login, CampaignList, and Campaign components listening for events from each other</li>
-	<li>Every component having to react correctly to every change in any other component started to hurt</li>
+	<li>Every component having to respond correctly to every change in any other component started to hurt</li>
 	<li>Rewrote with one central Big Ball of State</li>
-	<li>Events go to a controller, which talks to the server and is the only thing allowed to change the Big Ball of state</li>
+	<li>Events go to a controller, which talks to the server and is the only thing allowed to change the Big Ball of State</li>
 	<li>After any change, &quot;view&quot; functions used jQuery to redraw everything from the Big Ball of State</li>
 	<li>Replaced jQuery-based redraw-everything with React, which achieves the same thing more efficiently</li>
   </ol>
