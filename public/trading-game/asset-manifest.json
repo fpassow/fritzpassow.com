@@ -1,11 +1,11 @@
 {
-  "main.js": "/trading-game/static/js/main.816ec0b6.chunk.js",
-  "main.js.map": "/trading-game/static/js/main.816ec0b6.chunk.js.map",
+  "main.js": "/trading-game/static/js/main.a24db798.chunk.js",
+  "main.js.map": "/trading-game/static/js/main.a24db798.chunk.js.map",
   "runtime~main.js": "/trading-game/static/js/runtime~main.68757109.js",
   "runtime~main.js.map": "/trading-game/static/js/runtime~main.68757109.js.map",
   "static/js/2.7e0ba1e2.chunk.js": "/trading-game/static/js/2.7e0ba1e2.chunk.js",
   "static/js/2.7e0ba1e2.chunk.js.map": "/trading-game/static/js/2.7e0ba1e2.chunk.js.map",
   "index.html": "/trading-game/index.html",
-  "precache-manifest.85f07f2fcd50b8fd81c8fed5ff4269a2.js": "/trading-game/precache-manifest.85f07f2fcd50b8fd81c8fed5ff4269a2.js",
+  "precache-manifest.34a933d5869865bb94f3db95ea69d520.js": "/trading-game/precache-manifest.34a933d5869865bb94f3db95ea69d520.js",
   "service-worker.js": "/trading-game/service-worker.js"
 }
