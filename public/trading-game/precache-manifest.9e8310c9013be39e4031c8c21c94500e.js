@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/trading-game/static/js/runtime~main.68757109.js"
   },
   {
-    "revision": "68befd451e70d334dcde",
-    "url": "/trading-game/static/js/main.7023bae0.chunk.js"
+    "revision": "633ad2039a13f660c137",
+    "url": "/trading-game/static/js/main.7a2eb579.chunk.js"
   },
   {
     "revision": "611254752b169ab4b11a",
     "url": "/trading-game/static/js/2.7e0ba1e2.chunk.js"
   },
   {
-    "revision": "46a40ed68289f20f9cafd99988b3db64",
+    "revision": "1fe97a4c030107e4f6db08cd243e1daa",
     "url": "/trading-game/index.html"
   }
 ];
