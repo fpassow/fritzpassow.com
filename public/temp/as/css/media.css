@@ -1,0 +1,38 @@
+.content {
+    font-family: Arial, Helvetica, sans-serif; 
+}
+article {
+    border-bottom: 2px solid #88a;
+    margin-bottom: 30px;
+}
+
+/* Pad these and let the newspaper image be full width */
+p, h3, h4 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.news-banner {
+    background-color: white;
+    text-align: center;
+}
+.news-banner img {
+    display: inline-block;
+}
+
+h4 {
+    text-align: center;
+}
+
+.award-image {
+    float: right;
+    width: 202px;
+    height: 300px;
+}
+
+/* clearfix */
+.group:after {
+    content: "";
+    display: table;
+    clear: both;
+  }

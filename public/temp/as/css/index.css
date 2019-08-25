@@ -1,0 +1,22 @@
+
+.content {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  .leftside, .rightside {
+    padding-top: 30px;
+  }
+  
+  .centerside {
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .quote-site {
+    border-bottom: 2px solid #ccc;
+  }

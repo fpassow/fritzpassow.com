@@ -1,0 +1,25 @@
+.content {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.content img {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.text-col {
+  flex: 3;
+  padding-left: 30px;
+  padding-right: 30px;
+  min-width: 300px;
+}
+
+.img-col {
+  flex: 1;
+  padding-top: 20px;
+  min-width: 200px;
+}
