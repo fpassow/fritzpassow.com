@@ -11,21 +11,22 @@ font-family: Arial, Helvetica, sans-serif;   (Verdana??? (h2))
 fancy-font
 font-family: Georgia, 'Times New Roman', Times, serif;
 
-confirm that I'm closing the "root" div's
+--------------------------------------------------
+TO-DO's-------------------------------------------
 
-conf.html bible link broken. ASK MCOBB
+Start over on contact page
+Add HEAD stuff.
+VERY carefully remove *visible* old stuff.
+
+New image is "Emmy Scan.jpg"
+
+
+confirm that I'm closing the "root" div's
 
 background cross image grows with page length *and* keeps aspect ratio...
    just stretch vert??
 
-Missing words in last paragraph on workships page. ASK MCOBB
-
-ASK ABOUT SAN-SERIF PAGES VS Georgia+italic PAGES
-
 Make sure I close "content" "main" and "root" on every page
-
-favicon ... confirm it's on all pages
-
 
 
 ------CHANGES-----------
