@@ -55,9 +55,14 @@ h2 {
 }
 
 .main {
-  background: url("../img/whiteCrossBlueBackground.gif");
+  background-color: #babada;
+  background: url("../img/whiteCrossBlueBackground.gif") no-repeat;
   background-size: cover;
+  height: 100%;
+  overflow: hidden;
 }
+
+
 
 nav {
   display: flex;

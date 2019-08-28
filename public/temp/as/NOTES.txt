@@ -11,22 +11,46 @@ font-family: Arial, Helvetica, sans-serif;   (Verdana??? (h2))
 fancy-font
 font-family: Georgia, 'Times New Roman', Times, serif;
 
+*****************
+Contact form sent to URL: https://p11.secure.webhosting.luminate.com/forms?ssc=us2&login=audreysommers@yahoo.com&to=audreysommers@yahoo.com&confirm=&error=
+
+The following form submission was sent.
+Contact Us Form
+Name	Fritz Passow
+Email	fpassow@gmail.com
+Phone	7343952593
+Comments	Hello. This is Fritz testing the contact form on the current, live site, just to be sure it's working now. Please email me at fpassow@gmail.com when you get this. Thanks.
+REMOTE_HOST	216.150.230.17
+****************
+
+
+
 --------------------------------------------------
 TO-DO's-------------------------------------------
+
+
+background cross image grows with page length *and* keeps aspect ratio...
+   just stretch vert!
+
+Home page switch to true vertical layout after some breakpoint
+
+Weird char somewhere in Firefox
+
+Check with edge
+
+Check with IE
+
+Check with phone's default browser
+
+New image is "Emmy Scan.jpg"
+
+Make sure I close "content" "main" and "root" on every page
+
 
 Start over on contact page
 Add HEAD stuff.
 VERY carefully remove *visible* old stuff.
 
-New image is "Emmy Scan.jpg"
-
-
-confirm that I'm closing the "root" div's
-
-background cross image grows with page length *and* keeps aspect ratio...
-   just stretch vert??
-
-Make sure I close "content" "main" and "root" on every page
 
 
 ------CHANGES-----------
