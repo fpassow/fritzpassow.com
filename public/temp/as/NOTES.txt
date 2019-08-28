@@ -29,18 +29,15 @@ REMOTE_HOST	216.150.230.17
 TO-DO's-------------------------------------------
 
 
-background cross image grows with page length *and* keeps aspect ratio...
-   just stretch vert!
-
-Home page switch to true vertical layout after some breakpoint
-
-Weird char somewhere in Firefox
-
 Check with edge
 
 Check with IE
 
 Check with phone's default browser
+
+Check on an iPhone
+
+Check on a Mac.
 
 New image is "Emmy Scan.jpg"
 
