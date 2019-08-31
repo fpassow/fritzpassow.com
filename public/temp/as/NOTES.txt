@@ -15,28 +15,12 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 --------------------------------------------------
 TO-DO's-------------------------------------------
 
->>>>>>> PUT THE NEW IMAGE ON THE CONTACT PAGE <<<<<<<<
-
-Check with edge
-
-Check with IE
 
 Check with phone's default browser
 
 Check on an iPhone
 
 Check on a Mac.
-
-New image is "Emmy Scan.jpg"
-
-Make sure I close "content" "main" and "root" on every page
-
-
-Start over on contact page
-Add HEAD stuff.
-VERY carefully remove *visible* old stuff.
-
-
 
 ------CHANGES-----------
 
