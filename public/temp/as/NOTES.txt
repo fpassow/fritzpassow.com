@@ -16,11 +16,6 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 TO-DO's-------------------------------------------
 
 
-Check with phone's default browser
-
-Check on an iPhone
-
-Check on a Mac.
 
 ------CHANGES-----------
 
